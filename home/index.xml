@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Fontes</title>
+    <link>https://jp-guimaraes.github.io/pe-aula00/home/</link>
+    <description>Recent content in Homes on Fontes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jp-guimaraes.github.io/pe-aula00/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/pe-aula00/home/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/pe-aula00/home/intro/</guid>
+      <description> Objetivos  Apresentação do professor Planejamento do restante do curso Revisão dos conteúdos vistos   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/pe-aula00/home/curso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/pe-aula00/home/curso/</guid>
+      <description> Práticas de Eletricidade Contexto dentro do curso de Equipamentos Biomédicos
+ &amp;ldquo;O profissional (&amp;hellip;) atividades voltadas na área de montagem, instalação, manutenção, gestão, comercialização e uso adequado de equipamentos biomédicos&amp;rdquo;
+  Objetivos: Conceitos teóricos sobre eletricidade
+Base teórica para outras disciplinas (Analógica e Digital)
+Familiaridade com conceitos/práticas de eletricidade
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/pe-aula00/home/abordagem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/pe-aula00/home/abordagem/</guid>
+      <description>Curso   Mural
+  Microsoft Teams
+  Equipe no Microsoft Teams
+  chat
+    e-mail: joao.guimaraes@ifrn.edu.br
+   Abordagem para o restante do curso   Aulas teóricas
+ Garantir o mínimo de entendimento necessário para as demais disciplinas Abordagem top-down  Problemática  Teoria necessária        Aulas práticas
+ Simulador Laboratório     Centro Acadêmico Dúvidas teóricas/práticas</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/pe-aula00/home/revisao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/pe-aula00/home/revisao/</guid>
+      <description> Revisão Link para aula de revisão
+ </description>
+    </item>
+    
+  </channel>
+</rss>
